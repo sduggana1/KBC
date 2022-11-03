@@ -1,6 +1,6 @@
 <?php include("common.php");?>
 <?php top(); 
-echo '<link rel="stylesheet" href= "css/flipcard.css" type = "text/css">';
+echo '<link rel="stylesheet" href= "flipcard.css" type = "text/css">';
 ?>
 
 <?php 
